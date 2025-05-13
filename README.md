@@ -12,8 +12,7 @@ This repository contains two LoRa-based web applications:
 - [Full Duplex Chat Application](#full-duplex-chat-application)
 - [File Transfer Application](#file-transfer-application)
 - [LoRa Configuration](#lora-configuration)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
+
 
 ## Hardware Requirements
 - 2x ESP32 boards with LoRa modules (SX1262/SX1276)
